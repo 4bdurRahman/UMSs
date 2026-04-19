@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.1.11312.151 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationalInstituteManagementSystem", "EducationalInstituteManagementSystem.csproj", "{1E80FC2E-3B4B-4612-A3DD-DA6EB2B9B124}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Admin", "Admin", "{3BC063B5-C7D4-46EA-8E60-30130BEFC4AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E80FC2E-3B4B-4612-A3DD-DA6EB2B9B124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E80FC2E-3B4B-4612-A3DD-DA6EB2B9B124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E80FC2E-3B4B-4612-A3DD-DA6EB2B9B124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E80FC2E-3B4B-4612-A3DD-DA6EB2B9B124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {277C4F95-73C0-45E0-9C61-1CCDD8FBA429}
+	EndGlobalSection
+EndGlobal
