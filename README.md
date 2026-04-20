@@ -46,10 +46,10 @@ The project follows a comprehensive **Software Development Life Cycle (SDLC)** a
 This project was developed as a collaborative effort at the **Federal Urdu University of Arts, Sciences & Technology, Islamabad**.
 
 ** Project Team **
-**Taimour Mushtaq**: Database Design & Backend Development 
-**Abdur Rahman**":UI Development  
-**Binyameen**: Testing & Documentation  
-**M. Mateen Arshad**: System Integration
+**Taimour Mushtaq**|Database Design & Backend Development ||
+**Abdur Rahman**"| UI Development ||  
+**Binyameen**| Testing & Documentation ||
+**M. Mateen Arshad**| System Integration
 
 **Supervised by:**
 **Mr. Muhammad Aqib Rauf** 
