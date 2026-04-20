@@ -1,5 +1,15 @@
-## Educational Institute Management System
+<h1 align="center">Educational Institute Management System</h1>
 
+<p align="center">
+  A robust desktop solution for academic management using <b>C#</b> & <b>.NET Framework</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-C%23-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-SQL%20Server-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-ADO.NET-orange?style=for-the-badge" />
+</p>
 ### Project Overview
 The **Educational Institute Management System** is a high-performance desktop application engineered to streamline academic administration for small to medium-sized institutions.Developed using **C#** and the **.NET framework**, the system centralizes student and teacher data, automates class scheduling, and provides rigorous attendance tracking through a secure, offline interface.
 
@@ -35,11 +45,11 @@ The project follows a comprehensive **Software Development Life Cycle (SDLC)** a
 ### Contributors
 This project was developed as a collaborative effort at the **Federal Urdu University of Arts, Sciences & Technology, Islamabad**.
 
-**Project Team:**
-**Taimour Mushtaq**
-**Abdur Rahman**
-**Binyameen**
-**M.Mateen Arshad** 
+** Project Team **
+**Taimour Mushtaq**: Database Design & Backend Development 
+**Abdur Rahman**":UI Development  
+**Binyameen**: Testing & Documentation  
+**M. Mateen Arshad**: System Integration
 
 **Supervised by:**
 **Mr. Muhammad Aqib Rauf** 
