@@ -43,9 +43,9 @@ The project follows a comprehensive **Software Development Life Cycle (SDLC)** a
 
 
 ### Contributors
-This project was developed as a collaborative effort at the **Federal Urdu University of Arts, Sciences & Technology, Islamabad**.
+This semester project was developed as a collaborative effort at the ** Department of Computer Science, Federal Urdu University of Arts, Science & Technology, Islamabad**.
 
-## 👥 Project Team
+##  Project Team
 
 <table>
 <tr>
@@ -84,10 +84,6 @@ System Integration
 
 **Supervised by:**
 **Mr. Muhammad Aqib Rauf** 
+Lecturer at Department of Computer Science 
+Federal Urdu University of Arts,Science and Technology Islamabad 
 
-
-### Implementation Instructions for Contributor Status
-To represent your contribution professionally on GitHub:
-1.  **Repository Setup**: Initialize the repository and push the source code.
-2.  **Collaborator Invitation**: Navigate to **Settings > Collaborators** and invite the team members listed above using their GitHub usernames.
-3.  **Commit History**: Ensure your personal account has a significant commit history to reflect your specific role in database design or application development.
